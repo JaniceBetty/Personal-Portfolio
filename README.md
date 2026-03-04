@@ -17,25 +17,25 @@ This project highlights frontend development skills, component-based architectur
 ### 🏠 Home
 
 <p align="center">
-  <img src="src/Assets/preview/home.png" width="900">
+  <img src="src/Assets/preview/home.png" width="600">
 </p>
 
 ### 🙋 About
 
 <p align="center">
-  <img src="src/Assets/preview/about.png" width="900">
+  <img src="src/Assets/preview/about.png" width="600">
 </p>
 
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="src/Assets/preview/projects.png" width="900">
+  <img src="src/Assets/preview/projects.png" width="600">
 </p>
 
 ### 📄 Resume
 
 <p align="center">
-  <img src="src/Assets/preview/resume.png" width="900">
+  <img src="src/Assets/preview/resume.png" width="600">
 </p>
 
 ---
